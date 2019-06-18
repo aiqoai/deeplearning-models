@@ -1,0 +1,6 @@
+wheel
+watermark==1.8.1
+pytorch
+torch
+torchvision
+matplotlib
