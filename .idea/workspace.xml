@@ -1,12 +1,319 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dde5086-a126-438a-a8d3-3ed3722d0045" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PyTorchNLPBook/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorchNLPBook/chapters/chapter_1/PyTorch_Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyTorchNLPBook/chapters/chapter_1/PyTorch_Basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorchNLPBook/chapters/chapter_3/3_5_Classifying_Yelp_Review_Sentiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyTorchNLPBook/chapters/chapter_3/3_5_Classifying_Yelp_Review_Sentiment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorchNLPBook/chapters/chapter_3/Chapter-3-In-Text-Examples.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyTorchNLPBook/chapters/chapter_3/Chapter-3-In-Text-Examples.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorchNLPBook/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PyTorchNLPBook/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch_ipynb/autoencoder/ae-basic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_ipynb/autoencoder/ae-basic.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytorch_ipynb/data/perceptron_toydata.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytorch_ipynb/images/vgg16/vgg16-arch-table.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytorch_ipynb/gan/gan.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytorch_ipynb/helper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="133" column="15" selection-start-line="133" selection-start-column="15" selection-end-line="133" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow1_ipynb/autoencoder/ae-basic.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow1_ipynb/basic-ml/logistic-regression.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorflow1_ipynb/gan/gan.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
-    <option name="y" value="23" />
+    <option name="x" value="1817" />
+    <option name="y" value="405" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deeplearning-models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning-models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning-models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning-models" type="462c0819:PsiDirectoryNode" />
+              <item name="pytorch_ipynb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning-models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning-models" type="462c0819:PsiDirectoryNode" />
+              <item name="pytorch_ipynb" type="462c0819:PsiDirectoryNode" />
+              <item name="autoencoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning-models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning-models" type="462c0819:PsiDirectoryNode" />
+              <item name="pytorch_ipynb" type="462c0819:PsiDirectoryNode" />
+              <item name="autoencoder" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning-models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning-models" type="462c0819:PsiDirectoryNode" />
+              <item name="pytorch_ipynb" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-ml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning-models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning-models" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow1_ipynb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning-models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning-models" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow1_ipynb" type="462c0819:PsiDirectoryNode" />
+              <item name="autoencoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning-models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning-models" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow1_ipynb" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-ml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning-models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning-models" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow1_ipynb" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning-models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning-models" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow1_ipynb" type="462c0819:PsiDirectoryNode" />
+              <item name="gan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dde5086-a126-438a-a8d3-3ed3722d0045" name="Default Changelist" comment="" />
+      <created>1560875796361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560875796361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1817" y="405" width="1920" height="1057" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19483939" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.44798303" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch_ipynb/data/perceptron_toydata.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch_ipynb/images/vgg16/vgg16-arch-table.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch_ipynb/gan/gan.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch_ipynb/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="133" column="15" selection-start-line="133" selection-start-column="15" selection-end-line="133" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1_ipynb/autoencoder/ae-basic.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1_ipynb/basic-ml/logistic-regression.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow1_ipynb/gan/gan.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
